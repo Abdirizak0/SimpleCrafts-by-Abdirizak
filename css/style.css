@@ -108,3 +108,39 @@ ul li a:hover {
     text-decoration: underline;
     color: #000;
 }
+
+/* Add these styles to style.css */
+
+#education {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+#education h2 {
+    color: #333;
+}
+
+#education p {
+    color: #666;
+    font-size: 16px;
+}
+
+/* Add these styles to style.css */
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+}
